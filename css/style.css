@@ -80,3 +80,60 @@ header a:hover {
 #showcase p {
     font-size: 20px;
 }
+
+#newsletter{
+  background-color: #35424a;
+  color:rgb(255,255,255);
+  padding:15px; 
+}
+
+#newsletter h1{
+  float: left;
+}
+
+#newsletter form {
+  float: right;
+  margin-top: 12px;
+}
+
+#newsletter input[type="email"]{
+  padding: 4px;
+  height:25px;
+  width: 250px;
+}
+
+.button_1{
+  background-color: #e8491d;
+  color:#fff;
+  height:38px;
+ padding:0 20px 0 20px;
+ border: 0;
+}
+
+#boxes{
+margin-top: 20px;
+}
+
+
+#boxes .box{
+  /* border: 1px solid black; */
+  float:left;
+  width:30%;
+  text-align: center;
+margin: 16px  ;
+}
+
+#boxes img{
+  width: 90px;
+}
+
+footer{
+  background-color:  #e8491d ;
+  text-align: center;
+  padding: 20px;
+  color:#fff;
+}
+
+
+
+
